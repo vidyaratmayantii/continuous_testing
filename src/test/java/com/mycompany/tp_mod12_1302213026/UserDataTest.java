@@ -38,4 +38,11 @@ class UserDataTest {
         }
     }
 
+    // @Test
+    // void testFailingCondition() {
+    //     UserData user = new UserData(4321, 5679); 
+    //     user.login();
+    //     assertFalse(user.isLoggedIn(), "Tes gagal");
+    // }
+
 }
